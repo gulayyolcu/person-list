@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "company": "Photosnap",
+    "logo": "./images/1.jpg",
+    "position": "Senior Frontend Developer",
+    "role": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quisquam!"
+ 
+  },
+  {
+    "id": 2,
+    "company": "Manage",
+    "logo": "./images/2.jpg",
+    "position": "Fullstack Developer",
+    "role": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quisquam!"
+  },
+  {
+    "id": 3,
+    "company": "Account",
+    "logo": "./images/3.jpg",
+    "position": "Junior Frontend Developer",
+    "role": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quisquam!"
+  },
+  {
+    "id": 4,
+    "company": "MyHome",
+    "logo": "./images/4.jpg",
+    "position": "Junior Frontend Developer",
+    "role": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quisquam!"
+  }
+]
